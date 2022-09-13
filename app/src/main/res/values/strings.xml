@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserInputControls</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="sausage">Sausage</string>
+    <string name="eggs">Eggs</string>
+    <string name="pancakes">Pancakes</string>
+    <string name="cereal">Cereal</string>
+    <string name="oats">Oats</string>
+</resources>
